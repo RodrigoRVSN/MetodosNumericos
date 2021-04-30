@@ -1,1 +1,0 @@
-Este código foi desenvolvido com o intuito de aplica o método da dicotomia, na linguagem de programação C. São inseridos, pelo usuário, dados como a quantidade de termos, os coeficientes e os expoentes, que são alocados dinâmicamente em ponteiros e fazem a verificação, para encontrar a raiz da função e sua taxa de erro.
